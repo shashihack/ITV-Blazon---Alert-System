@@ -1,0 +1,21 @@
+.logi
+{
+	width:402px; height:80px; background-image:url('login1.png'); margin-top:-220px;
+margin-left:490px;
+}
+div.logi h1:hover
+{
+	font-size:205%;
+	color:#052E73;
+	
+	
+}
+div.logi a 
+{
+	text-decoration:none;
+}
+
+img.logi:hover
+{
+	width:60px;
+}
